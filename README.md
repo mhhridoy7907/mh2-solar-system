@@ -1,5 +1,7 @@
 # 🌍 MH2 Solar System - Interactive 3D Visualization
 
+
+
 <div align="center">
 
 ![Solar System](https://img.shields.io/badge/Three.js-3D%20Graphics-blue?style=flat-square)
@@ -143,6 +145,9 @@ Simply open the link in your browser and start exploring the solar system immedi
 
 ## 📊 Project Structure
 
+
+
+
 ```
 mh2-solar-system/
 │
@@ -165,6 +170,8 @@ mh2-solar-system/
         ├── uranus.jpg        # Uranus surface texture
         └── neptune.jpg       # Neptune surface texture
 ```
+
+
 
 **Asset Details:**
 - 🖼️ All textures in `im/` folder are high-resolution planetary surface maps
